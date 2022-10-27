@@ -35,7 +35,7 @@
 # Vim Snippet source file
 *.snippets linguist-detectable=true
 *.snippets linguist-documentation=false
-*.snippets linguist-language=Vim-Snuppet
+*.snippets linguist-language=Vim-Snippet
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -169,6 +169,6 @@
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2022, Thursday, October 27th at 4:09 pm PST)
+# File version: 6 (2022, Thursday, October 27th at 4:13 pm PST)
 # Line count (including blank lines and compiler line): 175
 # End of script
